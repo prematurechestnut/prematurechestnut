@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @prematurechestnut
-- 👀 I’m interested in ... C#, C++, Python, JavaScrpit/ Unreal Engine, Maya, Blender
-- 🌱 I’m currently learning ... Python/Selenium.
-- 💞️ I’m looking to collaborate on ... Who knows yet.
-- 📫 How to reach me ... I will reach you.
+- 👀 I’m interested in ... Programming/Security
+- 🌱 I’m currently learning ... Python/JavaScript/Java/UML
+- 💞️ I’m looking to collaborate on ...
+- 📫 How to reach me ...
 
 <!---
 prematurechestnut/prematurechestnut is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
